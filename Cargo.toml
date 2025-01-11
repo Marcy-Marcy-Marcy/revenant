@@ -5,4 +5,5 @@ edition = "2021"
 
 [dependencies]
 fltk = "1.5.1"
-image = "0.25.5"
+# image = "0.25.5"
+png = "0.17.16"
